@@ -40,12 +40,7 @@ The core of the project is implemented in a single Jupyter notebook:
 
 ## 3. Mathematical & Numerical Focus
 
-The project focuses on **Monte Carlo simulation as a numerical estimation of expectations**:
-
-\[
-\mathbb{E}[X] \approx \hat{\mu}_N = \frac{1}{N}\sum_{i=1}^N X_i,
-\]
-
+The project focuses on **Monte Carlo simulation as a numerical estimation of expectations**,
 with:
 
 - Convergence justified by the **Law of Large Numbers (LLN)**.
